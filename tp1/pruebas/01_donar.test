@@ -1,0 +1,12 @@
+<Pablo donar 100
+>OK
+<Pablo donar 200
+>OK
+<Pablo tirar_balde si
+>OK [200,100] TOTAL: 300
+<Dani donar 200
+>OK
+<Dani donar 300
+>OK
+<Dani tirar_balde si
+>OK [300,200] TOTAL: 500

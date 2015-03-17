@@ -1,0 +1,21 @@
+<buscar @igaray cronologico 0
+>OK 0
+<buscar @flopez cronologico 0
+>OK 0
+<twittear @igaray hola @flopez
+>OK 0
+<buscar @igaray cronologico 0
+>OK 1
+>0 @igaray hola @flopez
+<buscar @flopez cronologico 0
+>OK 1
+>0 @igaray hola @flopez
+<twittear @dessaya hola @igaray y @flopez
+>OK 1
+<buscar @flopez cronologico 1
+>OK 1
+>1 @dessaya hola @igaray y @flopez
+<buscar @igaray cronologico 10
+>OK 2
+>1 @dessaya hola @igaray y @flopez
+>0 @igaray hola @flopez

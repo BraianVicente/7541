@@ -1,0 +1,18 @@
+<Fede donar 100
+>OK
+<Fede donar 0
+>ERROR1
+<Fede tirar_balde si
+>OK [100] TOTAL: 100
+<Diego donar -500
+>ERROR1
+<Diego donar 100
+>OK
+<Diego tirar_balde si
+>OK [100] TOTAL: 100
+<Sebastian donar 100
+>OK
+<Sebastian donar qwerty
+>ERROR1
+<Sebastian tirar_balde si
+>OK [100] TOTAL: 100

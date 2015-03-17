@@ -1,0 +1,30 @@
+<twittear @dessaya hola mundo
+>OK 0
+<buscar #tema popular 0
+>OK 0
+<twittear @dessaya comentario sobre un #tema
+>OK 1
+<buscar #tema popular 0
+>OK 1
+>1 @dessaya comentario sobre un #tema
+<twittear @driesgo sigo prefiendo el #otrotema
+>OK 2
+<twittear @jchoque el #tema es muy interesante
+>OK 3
+<favorito 1
+>OK 1
+<buscar #tema popular 0
+>OK 2
+>1 @dessaya comentario sobre un #tema
+>3 @jchoque el #tema es muy interesante
+<twittear @fbarrios #hola @dsoto
+>OK 4
+<favorito 4
+>OK 4
+<favorito 4
+>OK 4
+<favorito 4
+>OK 4
+<buscar #hola popular 0
+>OK 1
+>4 @fbarrios #hola @dsoto

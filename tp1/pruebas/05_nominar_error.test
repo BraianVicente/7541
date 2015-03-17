@@ -1,0 +1,25 @@
+<Gaston nominar Fede
+>ERROR2
+<Fede nominar Rosita
+>ERROR2
+<Pablo donar 500
+>OK
+<Pablo nominar Jenny Martin Fabrizio
+>OK Jenny
+>OK Martin
+>OK Fabrizio
+<Jenny nominar Javi Bruno
+>ERROR3
+<Jenny donar 50
+>OK
+<Jenny nominar Javi Bruno
+>OK Javi
+>OK Bruno
+<Fabrizio nominar Rosita
+>ERROR3
+<Pablo nominar Jenny
+>ERROR4 Jenny
+<Pablo nominar Bruno
+>ERROR4 Bruno
+<Pablo nominar Javi
+>ERROR4 Javi

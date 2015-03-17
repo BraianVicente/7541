@@ -1,0 +1,14 @@
+<twittear @dessaya hola mundo
+>OK 0
+<twittear @jchoque mi comentario tiene #hastags
+>OK 1
+<twittear @dessaya comento otra vez
+>OK 2
+<twittear @driesgo yo tambien quiero comentar
+>OK 3
+<twittear @fbarrios hola mundo
+>OK 4
+<twittear @driesgo hola @fbarrios
+>OK 5
+<twittear @jchoque hola @fbarrios
+>OK 6

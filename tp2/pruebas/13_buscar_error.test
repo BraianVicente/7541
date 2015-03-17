@@ -1,0 +1,16 @@
+<buscar #tema
+>ERROR_COMANDO_INVALIDO
+<buscar @autor
+>ERROR_COMANDO_INVALIDO
+<buscar #tema parametro
+>ERROR_COMANDO_INVALIDO
+<buscar @autor parametro
+>ERROR_COMANDO_INVALIDO
+<buscar @autor cronologico
+>ERROR_COMANDO_INVALIDO
+<buscar @autor popular
+>ERROR_COMANDO_INVALIDO
+<buscar #tema cronologico
+>ERROR_COMANDO_INVALIDO
+<buscar #tema popular
+>ERROR_COMANDO_INVALIDO

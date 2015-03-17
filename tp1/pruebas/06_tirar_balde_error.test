@@ -1,0 +1,22 @@
+<Nacho donar 400
+>OK
+<Nacho donar 30
+>OK
+<Nacho nominar Milena Manu Ezequiel
+>OK Milena
+>OK Manu
+>OK Ezequiel
+<Nacho tirar_balde si
+>OK [30,400] TOTAL: 430
+<Milena tirar_balde no
+>ERROR6
+<Manu donar 100
+>OK
+<Manu tirar_balde si
+>ERROR5
+<Milena tirar_balde si
+>OK [] TOTAL: 0
+<Manu tirar_balde si
+>OK [100] TOTAL: 100
+<Ezequiel tirar_balde no
+>ERROR6

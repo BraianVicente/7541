@@ -1,0 +1,53 @@
+<Nacho donar 100
+>OK
+<Nacho donar 200
+>OK
+<Nacho donar -10
+>ERROR1
+<Nacho nominar Dani Fede Diego Sebastian
+>OK Dani
+>OK Fede
+>OK Diego
+>OK Sebastian
+<Milena nominar Rosita
+>ERROR2
+<Manu donar 100
+>OK
+<Manu tirar_balde si
+>ERROR5
+<Fede tirar_balde si
+>ERROR5
+<Nacho tirar_balde si
+>OK [200, 100] TOTAL: 300
+<Juan nominar Pedro Alberto
+>ERROR2
+<Dani nominar Alan
+>ERROR3
+<Dani donar 50
+>OK
+<Dani nominar Alan
+>OK Alan
+<Dani nominar Fede
+>ERROR4 Fede
+<Manu nominar Diego
+>ERROR4 Diego
+<Sebastian tirar_balde no
+>ERROR5
+<Fede tirar_balde si
+>ERROR5
+<Dani tirar_balde si
+>OK [50] TOTAL: 50
+<Diego tirar_balde si
+>ERROR5
+<Fede tirar_balde no
+>ERROR6
+<Sebastian tirar_balde no
+>ERROR5
+<Fede tirar_balde si
+>OK [] TOTAL: 0
+<Diego tirar_balde si
+>OK [] TOTAL: 0
+<Sebastian tirar_balde no
+>ERROR6
+<Sebastian tirar_balde si
+>OK [] TOTAL: 0

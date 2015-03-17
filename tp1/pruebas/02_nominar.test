@@ -1,0 +1,26 @@
+<Milena donar 10
+>OK
+<Milena donar 5
+>OK
+<Milena nominar Daniela Martin Fabrizio
+>OK Daniela
+>OK Martin
+>OK Fabrizio
+<Milena tirar_balde si
+>OK [5,10] TOTAL: 15
+<Pablo donar 500
+>OK
+<Pablo donar 100
+>OK
+<Pablo nominar Fede Sebastian Diego
+>OK Fede
+>OK Sebastian
+>OK Diego
+<Daniela tirar_balde si
+>OK [] TOTAL: 0
+<Martin tirar_balde si
+>OK [] TOTAL: 0
+<Fabrizio tirar_balde si
+>OK [] TOTAL: 0
+<Pablo tirar_balde si
+>OK [100, 500] TOTAL: 600

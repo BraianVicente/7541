@@ -1,0 +1,27 @@
+<twittear @dessaya hola mundo
+>OK 0
+<buscar @flopez cronologico 0
+>OK 0
+<twittear @fbarrios un comentario diferente
+>OK 1
+<buscar @dessaya cronologico 0
+>OK 1
+>0 @dessaya hola mundo
+<twittear @dessaya comentario sobre un #tema
+>OK 2
+<twittear @driesgo yo prefiero comentar ahora
+>OK 3
+<buscar @dessaya cronologico 0
+>OK 2
+>2 @dessaya comentario sobre un #tema
+>0 @dessaya hola mundo
+<buscar @dsoto cronologico 0
+>OK 0
+<twittear @fbarrios #hola @dsoto
+>OK 4
+<twittear @dsoto basta
+>OK 5
+<buscar @dsoto cronologico 0
+>OK 2
+>5 @dsoto basta
+>4 @fbarrios #hola @dsoto

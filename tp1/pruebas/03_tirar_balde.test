@@ -1,0 +1,18 @@
+<Fabrizio donar 46
+>OK
+<Fabrizio donar 33
+>OK
+<Fabrizio nominar Jenny Martin
+>OK Jenny
+>OK Martin
+<Fabrizio tirar_balde si
+>OK [33,46] TOTAL: 79
+<Jenny tirar_balde si
+>OK [] TOTAL: 0
+<Martin donar 50
+>OK
+<Martin donar 3
+>OK
+<Martin tirar_balde si
+>OK [3,50] TOTAL: 53
+

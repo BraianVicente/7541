@@ -1,0 +1,28 @@
+<twittear @dessaya hola mundo
+>OK 0
+<buscar #tema cronologico 0
+>OK 0
+<twittear @dessaya comentario sobre un #tema
+>OK 1
+<buscar #tema cronologico 0
+>OK 1
+>1 @dessaya comentario sobre un #tema
+<twittear @driesgo yo prefiero comentar sobre #otrotema
+>OK 2
+<twittear @jchoque el #tema es muy interesante
+>OK 3
+<buscar #tema cronologico 0
+>OK 2
+>3 @jchoque el #tema es muy interesante
+>1 @dessaya comentario sobre un #tema
+<twittear @dessaya bueno hablemos sobre un #tema y #otrotema
+>OK 4
+<buscar #tema cronologico 0
+>OK 3
+>4 @dessaya bueno hablemos sobre un #tema y #otrotema
+>3 @jchoque el #tema es muy interesante
+>1 @dessaya comentario sobre un #tema
+<buscar #otrotema cronologico 0
+>OK 2
+>4 @dessaya bueno hablemos sobre un #tema y #otrotema
+>2 @driesgo yo prefiero comentar sobre #otrotema

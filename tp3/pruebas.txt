@@ -1,0 +1,24 @@
+iniciando programa
+camino
+camino 4 9
+camino g4
+diametro 5
+diametro 55 8 9
+recomendar 55 5j
+recomendar 55 0
+recomendar 98, s
+recomendar 5, 8
+recomendar 5 0
+recomendar 5, 0
+recomendar 5 -20
+centralidad
+centralidad j5
+centralidad -55
+centralidad -44
+difundir 26,44,99,33
+difundir 5555
+difundir 23 12 45 11 46 49 8 5 -99
+distancias 55
+distancias 455
+distancias
+distancias 5 8

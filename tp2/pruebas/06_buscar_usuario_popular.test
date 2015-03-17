@@ -1,0 +1,21 @@
+<twittear @dessaya hola mundo
+>OK 0
+<buscar @flopez popular 0
+>OK 0
+<buscar @dessaya popular 0
+>OK 1
+>0 @dessaya hola mundo
+<twittear @dessaya comentario sobre un #tema
+>OK 1
+<twittear @driesgo no me canso de comentar sobre el #otrotema
+>OK 2
+<favorito 1
+>OK 1
+<favorito 1
+>OK 1
+<favorito 2
+>OK 2
+<buscar @dessaya popular 0
+>OK 2
+>1 @dessaya comentario sobre un #tema
+>0 @dessaya hola mundo
